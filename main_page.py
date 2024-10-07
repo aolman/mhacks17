@@ -185,19 +185,6 @@ def main():
         st.write("Chat with RecycleBuddy if you are unsure on what to do with a specific item!")
         st.markdown('<div class="feature-icon">🗣️</div>', unsafe_allow_html=True)
 
-    # Dynamic stats
-    st.header("Our Impact")
-    col1, col2, col3 = st.columns(3)
-
-    with col1:
-        st.metric("Items Recycled", "500K+")
-
-    with col2:
-        st.metric("Active Users", "10K")
-
-    with col3:
-        st.metric("Trees Saved", "200")
-
     # Call to action
     st.header("Ready to Make a Difference?")
     st.write("Join RecycleBuddy today and start your journey towards a greener future.")
