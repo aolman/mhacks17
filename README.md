@@ -1,4 +1,4 @@
-# RecyclBuddy - MHacks17
+# RecycleBuddy - MHacks17
 
 ## Overview
 RecycleBuddy is an AI-powered app that simplifies recycling. Users can scan items or chat with the app to learn how to dispose of waste properly. Our goal is to make recycling easier for everyone and promote a cleaner environment. Check it out [live](https://mhacks17-a5wfzubdtxqgycxmcmnhbf.streamlit.app/).
@@ -43,7 +43,7 @@ While building RecycleBuddy, we ran into a few challenges. First, setting up use
 We're really proud of how we've contributed to helping the environment in a creative way. It feels great to know that our work can make a difference! Along the journey, we learned a lot of new technologies. Streamlit became a key tool for us, and we enjoyed exploring MongoDB Atlas, Roboflow, and Groq. Each of these tools has helped us grow and improve our project.
 
 
-## What's next for RecyclyBuddy
+## What's next for RecycleBuddy
 What’s next for RecycleBuddy? We’re excited to introduce a few new features! First, we’ll be adding a token system to reward you for your recycling efforts. We also plan to create a history feature that helps you keep track of what you’ve recycled. Plus, we’re working on a shopping receipt scanner that will show you what items you can dispose of after use—perfect for managing your waste in bulk! And speaking of bulk, we want to make it easier for you to scan multiple items at once. Stay tuned for these exciting updates!
 
 
