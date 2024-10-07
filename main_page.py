@@ -243,14 +243,3 @@ def main():
     for i in range(len(fun_facts)):
         placeholder.write(f"Fun Fact: {fun_facts[i]}")
         time.sleep(6)
-
-
-
-# Footer
-
-if st.session_state["authentication_status"]:
-    main()
-elif st.session_state["authentication_status"] is False:
-    st.error('Username/password is incorrect')
-elif st.session_state["authentication_status"] is None:
-    st.warning('Please enter your username and password')
